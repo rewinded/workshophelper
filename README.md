@@ -1,4 +1,9 @@
+# why this fork exists
+
+To make this application more usable on a 4k display.
+
 # workshophelper
+
 How to use the Rivals Workshop Helper
 
 Load in your sprite sheet
