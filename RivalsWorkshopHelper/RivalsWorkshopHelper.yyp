@@ -455,6 +455,14 @@
             }
         },
         {
+            "Key": "dbec1af8-27a2-4568-a326-3dc6067ea23c",
+            "Value": {
+                "id": "303c59b0-bde0-412a-a3b3-2722686ffc87",
+                "resourcePath": "fonts\\Determination\\Determination.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "deacf85d-8731-404f-81fe-b3364f4c2f2a",
             "Value": {
                 "id": "d233e863-0280-443a-a7d4-cbe1519bcae2",

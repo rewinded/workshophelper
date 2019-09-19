@@ -3,9 +3,13 @@
         "Value": 4278190080
     },
     "option_gameguid": "3164fcf5-8821-4581-b66b-cc57d4327a6b",
-    "option_game_speed": 60
+    "option_game_speed": 60,
+    "option_lastchanged": "19 September 2019 4:46:28",
+    "option_sci_usesci": true
 }←1225f6b0-ac20-43bd-a82e-be73fa0b6f4f|{
-    "targets": 461609314234257646
+    "targets": 461609314234257646,
+    "mipsToGenerate": 0,
+    "border": 8
 }←7b2c4976-1e09-44e5-8256-c527145e03bb|{
     "targets": 461609314234257646
 }

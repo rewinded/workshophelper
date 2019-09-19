@@ -67,3 +67,6 @@ shape_but.visible = false;
 
 del_but = instance_create_depth(room_width-side_margin-20, top_margin+120, -1, hitbox_delete_but);
 del_but.visible = false;
+
+//GUI
+display_set_gui_size(-1, -1);
